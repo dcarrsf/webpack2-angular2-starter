@@ -1,5 +1,7 @@
 import { Component } from '@angular/core';
 import { ApiService } from './shared';
+
+// External CSS
 import '../style/app.scss';
 
 @Component({
